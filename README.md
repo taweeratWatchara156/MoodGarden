@@ -5,7 +5,7 @@ MoodHealth คืออุปกรณ์ iot ที่ใช้ในการ�
 
 # Project Github.io Website
 
-[Link ไปยัง Github.io Website](https://www.taweeratWatchara156.github.io)
+[Link ไปยัง Github.io Website](https://taweeratwatchara156.github.io/)
 
 # MoodHealth Monitor Web Application
 
