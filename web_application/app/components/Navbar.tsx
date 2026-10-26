@@ -44,11 +44,11 @@ const { isConnected, isConnecting, connectMqtt, disconnectMqtt } = useMqttStore(
             {/* Text */}
             <div className="hidden md:flex flex-col">
               <h1 className="text-white font-bold text-xl md:text-2xl lg:text-3xl">
-                Mood<span className="text-warm-yellow">Health</span> <span className="text-sage-green font-normal">Monitor</span>
+                Mood<span className="text-warm-yellow">Garden</span> <span className="text-sage-green font-normal">Monitor</span>
               </h1>
 
               <span className="flex text-xs md:text-sm xl:text-md gap-1 md:gap-2 text-gray-200 items-center">
-                <FontAwesomeIcon icon={faCaretRight} className="w-fit! h-3! md:h-4! xl:h-5! text-sage-green"/>
+                <FontAwesomeIcon icon={faCaretRight} className="w-fit h-3! md:h-4! xl:h-5! text-sage-green"/>
                 Physical Computer Project - PlantHealth
               </span>
             </div>
