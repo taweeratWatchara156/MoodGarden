@@ -11,8 +11,8 @@ DallasTemperature tempSensor(&oneWire);
 
 int msPin = A0;
 
-const char WIFI_SSID[] = "Mild_2.4G";
-const char WIFI_PASSWORD[] = "0378084652";
+const char WIFI_SSID[] = "Iphone 20";
+const char WIFI_PASSWORD[] = "11111111";
 
 const char MQTT_BROKER_ADDRESS[] = "mqtt-dashboard.com";
 const int MQTT_PORT = 1883;
@@ -21,7 +21,6 @@ const char MQTT_USERNAME[] = "";
 const char MQTT_PASSWORD[] = "";
 
 const char PUBLISH_SENSOR_TOPIC[] = "r4/plant/sensor";
-const char SUBSCRIBE_TOPIC[] = "r4/led/toggle";
 const char plantName[] = "ต้นกะเพรา";
 const char plantLocation[] = "ที่บ้าน ชั้น 3";
 
@@ -129,14 +128,6 @@ void connectToMQTT(){
     Serial.println("R4 - MQTT broker Timeout!");
     return;
   }
-
-  if(mqtt.subscribe(SUBSCRIBE_TOPIC))
-    Serial.print("R4 UNO - Subscribed to the topic: ");
-  else
-    Serial.print("R4 UNO - Failed to subscribe to the topic: ");
-
-  Serial.println(SUBSCRIBE_TOPIC);
-  Serial.println("R4 UNO - MQTT broker Connected!");
 }
 
 void messageReceived(String &topic, String &payload) {
