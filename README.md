@@ -13,4 +13,4 @@ MoodHealth คืออุปกรณ์ iot ที่ใช้ในการ�
 
 # MoodGarden Poster
 
-<img src="https://github.com/taweeratWatchara156/MoodGarden/blob/main/MoodGarden_Poster.png" width="500" height="300" alt="poster" />
+<img src="https://github.com/taweeratWatchara156/MoodGarden/blob/main/MoodGarden_Poster.png" width="500" height="800" alt="poster" />
