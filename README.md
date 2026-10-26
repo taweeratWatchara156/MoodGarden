@@ -11,4 +11,6 @@ MoodHealth คืออุปกรณ์ iot ที่ใช้ในการ�
 
 [Link ไปยัง MoodHealth Monitor Web Application](https://pc-moodgarden.netlify.app/)
 
+# MoodGarden Poster
 
+<img src="https://github.com/taweeratWatchara156/MoodGarden/blob/main/MoodGarden_Poster.png" width="500" height="300" alt="poster" />
