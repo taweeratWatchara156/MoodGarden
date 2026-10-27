@@ -1,15 +1,19 @@
 
-# Physical Computing | MoodHealth Project
+# Physical Computing | MoodGarden Project
 
-MoodHealth คืออุปกรณ์ iot ที่ใช้ในการเช็คสุขภาพของดินสำหรับปลูกพืชคร่าวๆ โดยสามารถเช็ค อุณหภูมิ, ความชื้น ของดินได้ผ่านจอ lcd หรือว่าผ่าน Web app
+MoodGarden คืออุปกรณ์ iot ที่ใช้ในการเช็คสุขภาพของดินสำหรับปลูกพืชคร่าวๆ โดยสามารถเช็ค อุณหภูมิ, ความชื้น ของดินได้ผ่านจอ lcd หรือว่าผ่าน Web app
 
 # Project Github.io Website
 
 [Link ไปยัง Github.io Website](https://taweeratwatchara156.github.io/)
 
-# MoodHealth Monitor Web Application
+# MoodGarden Monitor Web Application
 
-[Link ไปยัง MoodHealth Monitor Web Application](https://pc-moodgarden.netlify.app/)
+[Link ไปยัง MoodGarden Monitor Web Application](https://pc-moodgarden.netlify.app/)
+
+# MoodGarden Video Presentation
+
+[Link ไปยัง MoodGarden Video Presentation](https://youtu.be/69bZFOB5nZE?si=OKaC0kFZYrL6PeJK)
 
 # MoodGarden Poster
 
